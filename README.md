@@ -14,7 +14,7 @@ Impareremo Spring JMS con ActiveMQ scrivendo tanto codice insieme e durante lo s
 Tutorial Spring JMS con ActiveMQ in 45 mins : il tutorial per imparare Spring JMS con ActiveMQ in pochissimo tempo, con meno teoria e più pratica! 
 
 ## Vuoi seguire tutto il tutorial? Eccoti il link dei video! :) 
-https://www.youtube.com/watch?v=44OrYqec6h4&list=PLl8lST6xZTJb42YNY4z1wTY0v3hRJ6bg3&index=3
+https://www.youtube.com/watch?v=WA9W-BPAcDE&list=PLl8lST6xZTJb42YNY4z1wTY0v3hRJ6bg3&index=2
 
 Buono studio! :)
 
